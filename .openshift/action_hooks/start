@@ -1,0 +1,4 @@
+#!/bin/bash
+source $OPENSHIFT_CARTRIDGE_SDK_BASH
+source $OPENSHIFT_REPO_DIR/files/scripts/control
+start
